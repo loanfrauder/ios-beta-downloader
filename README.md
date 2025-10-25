@@ -3,7 +3,7 @@ This is a fork of [turlum25's iosbeta-downloader](https://github.com/turlum25/io
 
 # Todo
 - More device support
-  - [ ] iPod2,1
+  - [x] iPod2,1
   - [ ] iPod3,1
   - [ ] iPod4,1
   - [ ] iPod5,1
