@@ -10,7 +10,7 @@ import requests
 from progress_bar import InitBar
 
 print("""iOS Beta Downloader
-Fork of turlum25's "iosbeta-downloader""")
+Fork of turlum25's "iosbeta-downloader\"""")
 
 r = requests.get("https://raw.githubusercontent.com/loanfrauder/ios-beta-downloader/refs/heads/main/beta_versions.json")
 if r.status_code != 200:
