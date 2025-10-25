@@ -1,19 +1,20 @@
-# iOS Beta IPSW Downloader
+# iOS Beta Downloader
+This is a fork of [turlum25's iosbeta-downloader](https://github.com/turlum25/iosbeta-downloader), a tool for downloading IPSW files of beta iOS versions.
 
-This program is built on Python 3.13 and is currently in very early alpha stages. This application focuses on new legacy iOS downgraders trying to find iOS beta IPSW files for iPhone, iPad and iPod touch.
-
-# Device compatibility
-
-Currently, only iPod1,1 (iPod touch 1) is supported. 
+# Todo
+- More device support
+  - [ ] iPod2,1
+  - [ ] iPod3,1
+  - [ ] iPod4,1
+  - [ ] iPod5,1
+  - [ ] iPod7,1
+  - [ ] Find more file sources
+- [ ] Split and threaded file downloading
 
 # How to run
-Install Python 3.13. That's it.
+Install the dependencies (see requirements.txt), and run `iosbetadownloader.py`.
 
-# Where did i get all the files from?
+This has been tested with Python 3.13, but should work with 3.11 and 3.12. Other versions may or may not work.
 
-It is located in archive.org/details/Apple_iPod_Firmware
-
-
-
-
-
+# File sources
+- [https://archive.org/details/Apple_iPod_Firmware](https://archive.org/details/Apple_iPod_Firmware)
