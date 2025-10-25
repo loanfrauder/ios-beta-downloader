@@ -1,0 +1,46 @@
+{
+    "iPod1,1": {
+        "2.0": {
+            "5A240d": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%202.0%20%282.0.5A240d%29%20%28beta3%29/media_ipsw.rar/iPod1%2C1_2.0_5A240d_Restore.ipsw",
+                "md5": "7a309dbad549c59c392969684d4eb60e"
+            }
+        },
+        "3.0": {
+            "7A238j": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.0%20%283.0.7A238j%29%20%28beta%29/media_ipsw.rar/iPod1%2C1_3.0_7A238j_Restore.ipsw",
+                "md5": "b16774989623c7f8e5aec197202d55e0"
+            },
+            "7A259g": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.0%20%283.0.7A259g%29%20%28beta%29/media_ipsw.rar/iPod1%2C1_3.0_7A259g_Restore.ipsw",
+                "md5": "159c978ca59925847ae6b62596695b3b"
+            },
+            "7A280f": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.0%20%283.0.7A280f%29%20%28beta%29/media_ipsw.rar/iPod1%2C1_3.0_7A280f_Restore.ipsw",
+                "md5": "5802bfce0dec8dd0eb91cc8b52a350e5"
+            },
+            "7A300g": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.0%20%283.0.7A300g%29%20%28beta4%29/media_ipsw.rar/iPod1%2C1_3.0_7A300g_Restore.ipsw",
+                "md5": "0fdfb56c3ee44c9554889e7ec2f3ec01"
+            },
+            "7A312g": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.0%20%283.0.7A312g%29%20%28beta5%29/media_ipsw.rar/iPod1%2C1_3.0_7A312g_Restore.ipsw",
+                "md5": "de0ffd73dd4d6b2e6ce7c33307c632d3"
+            }
+        },
+        "3.1": {
+            "7C106c": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.1%20%283.1.7C106c%29%20%28beta2%29/media_ipsw.rar/iPod1%2C1_3.1_7C106c_Restore.ipsw",
+                "md5": "b33ff9b34d3cf82229adb4a173f8e728"
+            },
+            "7C116a": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.1%20%283.1.7C116a%29%20%28beta3%29/media_ipsw.rar/iPod1%2C1_3.1_7C116a_Restore.ipsw",
+                "md5": "bea1343f20fc61327e73e2a5e6d87a52"
+            },
+            "7C97d": {
+                "url": "https://archive.org/download/Apple_iPod_Firmware/Apple%20iPod%20Touch%201.1%20Firmware%203.1%20%283.1.7C97d%29%20%28beta%29/media_ipsw.rar/iPod1%2C1_3.1_7C97d_Restore.ipsw",
+                "md5": "1c2fe0a91d3853f18c4f2369aaaa1ad9"
+            }
+        }
+    }
+}
